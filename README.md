@@ -2,8 +2,7 @@
 
 ## Features
 
-- Counts lines of code, comments, and blank lines in files
-
+- List of features here
 
 ## Installation
 
