@@ -1,11 +1,11 @@
 import { program } from 'commander';
 
 program
-    .name(('my-cli'))
-    .description('The default CLI for my project')
+    .name('bun-cli-template')
+    .description('A modern CLI template built with Bun')
     .version('1.0.0')
     .action(() => {
-        console.log(`hello world`);
+        console.log('Hello from bun-cli-template!');
     });
 
-program.parse(); 
+program.parse();
